@@ -9,4 +9,11 @@ def author():
         k.write('My name is Karman!?')
 
 author()
+
+def helloWorld():
+	print(‘Hello World’)
+
+
+helloWorld()
+
 ```
